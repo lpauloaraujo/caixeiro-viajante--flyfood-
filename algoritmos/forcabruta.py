@@ -15,7 +15,7 @@ def interpretarmatriz(arquivo):
     return matrizinterpretada
 
 
-matriz = interpretarmatriz('matriz.txt')
+matriz = interpretarmatriz('data/matriz.txt')
 
 
 def pontosdeentrega(mat):
